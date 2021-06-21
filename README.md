@@ -1,4 +1,4 @@
-# Machine-Learning-Data-Analysis-Project
+# Machine-Learning-Classification-Project
 In this project I used Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, Sklearn for binary classificatoin of an around 22,000 rows X 22 columns data.
  
 The project has 5 main parts:
